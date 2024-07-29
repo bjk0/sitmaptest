@@ -1,24 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
-<url>
-  <loc>https://help.mypurecloud.com/</loc>
-</url>
-<url>
-  <loc>http://help.mypurecloud.com/articles/about-the-resource-center/</loc>
-</url>
-<url>
-  <loc>https://help.mypurecloud.com/?p=63450</loc>
-</url>
-<url>
-  <loc>https://help.mypurecloud.com/?p=335028</loc>
-</url>
-<url>
-  <loc>https://help.mypurecloud.com/?p=93182</loc>
-</url>
-<url>
-  <loc>https://help.mypurecloud.com/?p=213344</loc>
-</url>
-<url>
-  <loc>https://help.mypurecloud.com/?p=1870</loc>
-</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated: 8/7/23 3:28 PM -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>https://www.schueco.com/showroom-en/allgemein/gbc/lizenzbedingungen-der-schueco-digital-gmbh</loc>
+        <xhtml:link href="https://www.schueco.com/showroom/allgemein/agb/lizenzbedingungen-der-schueco-digital-gmbh" hreflang="de-DE" rel="alternate"/>
+        <xhtml:link href="https://www.schueco.com/showroom-en/allgemein/gbc/lizenzbedingungen-der-schueco-digital-gmbh" hreflang="en-DE" rel="alternate"/>
+    </url>
+    <url>
+        <loc>https://www.schueco.com/showroom-en/allgemein/gbc</loc>
+        <xhtml:link href="https://www.schueco.com/showroom/allgemein/agb" hreflang="de-DE" rel="alternate"/>
+        <xhtml:link href="https://www.schueco.com/showroom-en/allgemein/gbc" hreflang="en-DE" rel="alternate"/>
+    </url>
 </urlset>
