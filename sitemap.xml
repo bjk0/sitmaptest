@@ -13,6 +13,12 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://en.wikipedia.org/wiki/History_of_Athens</loc>
+        <lastmod>2024-09-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://www.schueco.com/showroom-en/allgemein/gbc</loc>
         <xhtml:link href="https://www.schueco.com/showroom/allgemein/agb" hreflang="de-DE" rel="alternate"/>
         <xhtml:link href="https://www.schueco.com/showroom-en/allgemein/gbc" hreflang="en-DE" rel="alternate"/>
