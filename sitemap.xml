@@ -2,11 +2,6 @@
 <!-- Generated: 8/7/23 3:28 PM -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>https://www.schueco.com/showroom-en/allgemein/gbc/lizenzbedingungen-der-schueco-digital-gmbh</loc>
-        <xhtml:link href="https://www.schueco.com/showroom/allgemein/agb/lizenzbedingungen-der-schueco-digital-gmbh" hreflang="de-DE" rel="alternate"/>
-        <xhtml:link href="https://www.schueco.com/showroom-en/allgemein/gbc/lizenzbedingungen-der-schueco-digital-gmbh" hreflang="en-DE" rel="alternate"/>
-    </url>
-    <url>
         <loc>https://www.equinox.com/clubs/northern-california/paloalto</loc>
         <lastmod>2024-09-19</lastmod>
         <changefreq>weekly</changefreq>
@@ -24,9 +19,12 @@
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
-    <url>
-        <loc>https://www.schueco.com/showroom-en/allgemein/gbc</loc>
-        <xhtml:link href="https://www.schueco.com/showroom/allgemein/agb" hreflang="de-DE" rel="alternate"/>
-        <xhtml:link href="https://www.schueco.com/showroom-en/allgemein/gbc" hreflang="en-DE" rel="alternate"/>
+        <url>
+        <loc>https://can-am.brp.com/off-road/us/en/owner-zone/maintenance/how-to/how-to-flush-out-differential-fluid-atv.html
+</loc>
+        <lastmod>2024-09-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
     </url>
+
 </urlset>
