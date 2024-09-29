@@ -3,7 +3,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
         <url>
-        <loc>https://helpme.tebra.com/Tebra_PM/Tasks_and_Messages/Messages/Patient_Groups</loc>
+        <loc>https://helpme.tebra.com/Tebra_PM/04_Settings/Patient_Payments_Settings/Stripe_Terminal_Setup_Verifone</loc>
         <lastmod>2024-09-19</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
